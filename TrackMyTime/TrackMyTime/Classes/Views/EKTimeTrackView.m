@@ -24,6 +24,11 @@ static NSString * const kEKCounter           = @"00:00:00.00";
     if (self) {
         self.backgroundColor = APP_BACKGROUND_COLOR;  //[UIColor colorWithPatternImage:[UIImage imageNamed:@"trash2.png"]];
     //APP_BACKGROUND_COLOR;
+//        UIImageView *backImage = [[UIImageView alloc] init];
+//        backImage.frame = CGRectMake(0, 0, 100, 280);
+//        backImage.image = [UIImage imageNamed:@"afro-american-teacher.jpg"];
+//        [self.view  addSubview:backImage];
+
         
      /*   self.startStop = [UIButton buttonWithType:UIButtonTypeCustom];
         [self.startStop setTitle:kEKStartButton forState:UIControlStateNormal];

@@ -33,6 +33,9 @@
 		261DCFF2204AAD2B00967A3A /* sell.png in Resources */ = {isa = PBXBuildFile; fileRef = 261DCFF1204AAD2A00967A3A /* sell.png */; };
 		261DCFF4204AADFE00967A3A /* database_backup.png in Resources */ = {isa = PBXBuildFile; fileRef = 261DCFF3204AADFD00967A3A /* database_backup.png */; };
 		261DCFF6204AAE3600967A3A /* trash.png in Resources */ = {isa = PBXBuildFile; fileRef = 261DCFF5204AAE3600967A3A /* trash.png */; };
+		261DCFFA204AE00B00967A3A /* gitHubIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 261DCFF9204AE00B00967A3A /* gitHubIcon.png */; };
+		261DCFFC204AE1B000967A3A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DEBB0CE9185386C500302AC5 /* Images.xcassets */; };
+		261DCFFE204AEADA00967A3A /* SK.png in Resources */ = {isa = PBXBuildFile; fileRef = 261DCFFD204AEADA00967A3A /* SK.png */; };
 		DE025E64185C99DE00E806E9 /* EKChartViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DE025E63185C99DE00E806E9 /* EKChartViewController.m */; };
 		DE0887401866198C0048DD4E /* EKBar.m in Sources */ = {isa = PBXBuildFile; fileRef = DE08873F1866198C0048DD4E /* EKBar.m */; };
 		DE088746186671280048DD4E /* EKBarChartView.m in Sources */ = {isa = PBXBuildFile; fileRef = DE088745186671280048DD4E /* EKBarChartView.m */; };
@@ -75,7 +78,6 @@
 		DEBB0CD9185386C500302AC5 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DEBB0CD8185386C500302AC5 /* CoreData.framework */; };
 		DEBB0CDF185386C500302AC5 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = DEBB0CDD185386C500302AC5 /* InfoPlist.strings */; };
 		DEBB0CE1185386C500302AC5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DEBB0CE0185386C500302AC5 /* main.m */; };
-		DEBB0CEA185386C500302AC5 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DEBB0CE9185386C500302AC5 /* Images.xcassets */; };
 		DEBB0CF1185386C500302AC5 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DEBB0CF0185386C500302AC5 /* XCTest.framework */; };
 		DEBB0CF2185386C500302AC5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DEBB0CD2185386C500302AC5 /* Foundation.framework */; };
 		DEBB0CF3185386C500302AC5 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DEBB0CD6185386C500302AC5 /* UIKit.framework */; };
@@ -91,7 +93,7 @@
 		DEBB0D201853A12000302AC5 /* MMDrawerVisualStateManager.m in Sources */ = {isa = PBXBuildFile; fileRef = DEBB0D1F1853A12000302AC5 /* MMDrawerVisualStateManager.m */; };
 		DEBB0D231853BCA100302AC5 /* EKCalendarViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DEBB0D221853BCA100302AC5 /* EKCalendarViewController.m */; };
 		DECDB635186DD85C009EF208 /* Crashlytics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DECDB634186DD85C009EF208 /* Crashlytics.framework */; };
-		DECF9832187DFE5D00B3DE9C /* gitHubIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = DECF9831187DFE5D00B3DE9C /* gitHubIcon.png */; };
+		DECF9832187DFE5D00B3DE9C /* gitHubIcon2.png in Resources */ = {isa = PBXBuildFile; fileRef = DECF9831187DFE5D00B3DE9C /* gitHubIcon2.png */; };
 		DECF9834187E04FC00B3DE9C /* Download_on_the_App_Store_Badge_US-UK_135x40.png in Resources */ = {isa = PBXBuildFile; fileRef = DECF9833187E04FC00B3DE9C /* Download_on_the_App_Store_Badge_US-UK_135x40.png */; };
 		DED8BA231A8434C900FA0601 /* FHCircleView.m in Sources */ = {isa = PBXBuildFile; fileRef = DED8BA111A8434C900FA0601 /* FHCircleView.m */; };
 		DED8BA251A8434C900FA0601 /* FXPageControl.m in Sources */ = {isa = PBXBuildFile; fileRef = DED8BA161A8434C900FA0601 /* FXPageControl.m */; };
@@ -189,6 +191,8 @@
 		261DCFF1204AAD2A00967A3A /* sell.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = sell.png; path = ../../../../../../Desktop/finTech/book_ilusts/sell.png; sourceTree = "<group>"; };
 		261DCFF3204AADFD00967A3A /* database_backup.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = database_backup.png; path = ../../../../../../Desktop/finTech/book_ilusts/database_backup.png; sourceTree = "<group>"; };
 		261DCFF5204AAE3600967A3A /* trash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = trash.png; path = ../../../../../../Desktop/finTech/book_ilusts/trash.png; sourceTree = "<group>"; };
+		261DCFF9204AE00B00967A3A /* gitHubIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = gitHubIcon.png; path = ../../../../../../Desktop/finTech/gitHubIcon.png; sourceTree = "<group>"; };
+		261DCFFD204AEADA00967A3A /* SK.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = SK.png; path = ../../../../../../Desktop/finTech/SK.png; sourceTree = "<group>"; };
 		DE025E62185C99DE00E806E9 /* EKChartViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EKChartViewController.h; sourceTree = "<group>"; };
 		DE025E63185C99DE00E806E9 /* EKChartViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EKChartViewController.m; sourceTree = "<group>"; };
 		DE08873E1866198C0048DD4E /* EKBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EKBar.h; sourceTree = "<group>"; };
@@ -273,7 +277,7 @@
 		DEBB0D211853BCA100302AC5 /* EKCalendarViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EKCalendarViewController.h; sourceTree = "<group>"; };
 		DEBB0D221853BCA100302AC5 /* EKCalendarViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EKCalendarViewController.m; sourceTree = "<group>"; };
 		DECDB634186DD85C009EF208 /* Crashlytics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Crashlytics.framework; sourceTree = "<group>"; };
-		DECF9831187DFE5D00B3DE9C /* gitHubIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gitHubIcon.png; sourceTree = "<group>"; };
+		DECF9831187DFE5D00B3DE9C /* gitHubIcon2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gitHubIcon2.png; sourceTree = "<group>"; };
 		DECF9833187E04FC00B3DE9C /* Download_on_the_App_Store_Badge_US-UK_135x40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Download_on_the_App_Store_Badge_US-UK_135x40.png"; sourceTree = "<group>"; };
 		DED8BA101A8434C900FA0601 /* FHCircleView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FHCircleView.h; sourceTree = "<group>"; };
 		DED8BA111A8434C900FA0601 /* FHCircleView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FHCircleView.m; sourceTree = "<group>"; };
@@ -431,8 +435,10 @@
 			isa = PBXGroup;
 			children = (
 				DECF9833187E04FC00B3DE9C /* Download_on_the_App_Store_Badge_US-UK_135x40.png */,
-				DECF9831187DFE5D00B3DE9C /* gitHubIcon.png */,
+				DECF9831187DFE5D00B3DE9C /* gitHubIcon2.png */,
+				261DCFFD204AEADA00967A3A /* SK.png */,
 				DE22835E186A17CD004A00FA /* tones.png */,
+				261DCFF9204AE00B00967A3A /* gitHubIcon.png */,
 				DE228360186A17DA004A00FA /* trash2.png */,
 				DE228362186A17F3004A00FA /* database_backup2.png */,
 				DE3DED091865132700E13797 /* clock.png */,
@@ -1054,19 +1060,21 @@
 				DEED2A701D500A9500813408 /* DSLCalendarDayCallout@2x.png in Resources */,
 				DEED2A8F1D500A9500813408 /* NotificationBackgroundMessage.png in Resources */,
 				DEED2A921D500A9500813408 /* NotificationBackgroundSuccess@2x.png in Resources */,
+				261DCFFE204AEADA00967A3A /* SK.png in Resources */,
 				DEBB0CDF185386C500302AC5 /* InfoPlist.strings in Resources */,
 				261DCFEA204AAAC300967A3A /* settings.png in Resources */,
 				261DCFE8204AAA2A00967A3A /* pie_chart.png in Resources */,
+				261DCFFC204AE1B000967A3A /* Images.xcassets in Resources */,
 				DEED2A931D500A9500813408 /* NotificationBackgroundSuccessIcon.png in Resources */,
+				261DCFFA204AE00B00967A3A /* gitHubIcon.png in Resources */,
 				DE87D2D91859E9DE00B59EA3 /* save.wav in Resources */,
 				DE87D2D71859E9DE00B59EA3 /* success.png in Resources */,
 				DEED2A8D1D500A9500813408 /* NotificationBackgroundErrorIcon.png in Resources */,
-				DEBB0CEA185386C500302AC5 /* Images.xcassets in Resources */,
 				261DCFF6204AAE3600967A3A /* trash.png in Resources */,
 				DE87D2D81859E9DE00B59EA3 /* reset.wav in Resources */,
 				DEE2681A186091D900394FDD /* slice.wav in Resources */,
 				DE6D03021861BB9400B2D670 /* pie_chart2.png in Resources */,
-				DECF9832187DFE5D00B3DE9C /* gitHubIcon.png in Resources */,
+				DECF9832187DFE5D00B3DE9C /* gitHubIcon2.png in Resources */,
 				261DCFF0204AACD200967A3A /* buy.png in Resources */,
 				DEED2A731D500A9500813408 /* DSLCalendarDaySelection-middle.png in Resources */,
 				DE87D2D61859E9DE00B59EA3 /* error.png in Resources */,
