@@ -23,6 +23,7 @@ static CGFloat    const kEKHeightForRow    = 60.0f;
     NSParameterAssert(delegate != nil);
     
     self = [super init];
+    
     if (self) {
         self.delegate = delegate;
     }

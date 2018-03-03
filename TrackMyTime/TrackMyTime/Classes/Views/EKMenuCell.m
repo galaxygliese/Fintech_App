@@ -24,7 +24,8 @@ static CGFloat    const kEKTitleFontSize = 20.0f;
     self = [super init];
     
     if (self) {
-        self.backgroundColor = [UIColor clearColor];
+        
+//        self.backgroundColor = [UIColor clearColor];
         self.icon = [[UIImageView alloc] init];
         [self addSubview:self.icon];
         
@@ -51,14 +52,18 @@ static CGFloat    const kEKTitleFontSize = 20.0f;
                 break;
                 
             default:
+                self.backgroundColor = [UIColor colorWithPatternImage:[UIImage imageNamed:@"back_one.png"]];
                 break;
         }
+        
     }
+    
     return self;
 }
 
 - (void)layoutSubviews
 {
+    
 	[super layoutSubviews];
     
     self.icon.frame  = CGRectMake(30.0f, 20.0f, 20.0f, 20.0f);

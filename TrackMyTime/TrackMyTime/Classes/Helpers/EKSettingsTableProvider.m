@@ -47,6 +47,7 @@ static CGFloat    const kEKHeightForRow    =  70.0f ;//60.0f;
         if (indexPath.row < 2) {
             cell.accessoryType = UITableViewCellAccessoryDisclosureIndicator;
         }
+        cell.imageView.image = [UIImage imageNamed:@"bakc_one.png"];
         /* else if (indexPath.row == 2) {
             cell.selectionStyle = UITableViewCellSelectionStyleNone;
             [cell.soundSwitch addTarget:self action:@selector(switchPressed:) forControlEvents:UIControlEventTouchUpInside];

@@ -36,6 +36,8 @@
 		261DCFFA204AE00B00967A3A /* gitHubIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 261DCFF9204AE00B00967A3A /* gitHubIcon.png */; };
 		261DCFFC204AE1B000967A3A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DEBB0CE9185386C500302AC5 /* Images.xcassets */; };
 		261DCFFE204AEADA00967A3A /* SK.png in Resources */ = {isa = PBXBuildFile; fileRef = 261DCFFD204AEADA00967A3A /* SK.png */; };
+		261DD000204AFA0800967A3A /* back_one.png in Resources */ = {isa = PBXBuildFile; fileRef = 261DCFFF204AFA0700967A3A /* back_one.png */; };
+		261DD002204B064800967A3A /* back_two.png in Resources */ = {isa = PBXBuildFile; fileRef = 261DD001204B064800967A3A /* back_two.png */; };
 		DE025E64185C99DE00E806E9 /* EKChartViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DE025E63185C99DE00E806E9 /* EKChartViewController.m */; };
 		DE0887401866198C0048DD4E /* EKBar.m in Sources */ = {isa = PBXBuildFile; fileRef = DE08873F1866198C0048DD4E /* EKBar.m */; };
 		DE088746186671280048DD4E /* EKBarChartView.m in Sources */ = {isa = PBXBuildFile; fileRef = DE088745186671280048DD4E /* EKBarChartView.m */; };
@@ -193,6 +195,8 @@
 		261DCFF5204AAE3600967A3A /* trash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = trash.png; path = ../../../../../../Desktop/finTech/book_ilusts/trash.png; sourceTree = "<group>"; };
 		261DCFF9204AE00B00967A3A /* gitHubIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = gitHubIcon.png; path = ../../../../../../Desktop/finTech/gitHubIcon.png; sourceTree = "<group>"; };
 		261DCFFD204AEADA00967A3A /* SK.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = SK.png; path = ../../../../../../Desktop/finTech/SK.png; sourceTree = "<group>"; };
+		261DCFFF204AFA0700967A3A /* back_one.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = back_one.png; path = ../../../../../../Desktop/finTech/back_one.png; sourceTree = "<group>"; };
+		261DD001204B064800967A3A /* back_two.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = back_two.png; path = ../../../../../../Desktop/finTech/back_two.png; sourceTree = "<group>"; };
 		DE025E62185C99DE00E806E9 /* EKChartViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EKChartViewController.h; sourceTree = "<group>"; };
 		DE025E63185C99DE00E806E9 /* EKChartViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EKChartViewController.m; sourceTree = "<group>"; };
 		DE08873E1866198C0048DD4E /* EKBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EKBar.h; sourceTree = "<group>"; };
@@ -434,8 +438,10 @@
 		DE87D2CE1859E9DE00B59EA3 /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				261DD001204B064800967A3A /* back_two.png */,
 				DECF9833187E04FC00B3DE9C /* Download_on_the_App_Store_Badge_US-UK_135x40.png */,
 				DECF9831187DFE5D00B3DE9C /* gitHubIcon2.png */,
+				261DCFFF204AFA0700967A3A /* back_one.png */,
 				261DCFFD204AEADA00967A3A /* SK.png */,
 				DE22835E186A17CD004A00FA /* tones.png */,
 				261DCFF9204AE00B00967A3A /* gitHubIcon.png */,
@@ -1025,6 +1031,7 @@
 				DEED2A8E1D500A9500813408 /* NotificationBackgroundErrorIcon@2x.png in Resources */,
 				DEED2A961D500A9500813408 /* NotificationBackgroundWarning@2x.png in Resources */,
 				DEED2A751D500A9500813408 /* DSLCalendarDaySelection-right.png in Resources */,
+				261DD002204B064800967A3A /* back_two.png in Resources */,
 				DEED2A761D500A9500813408 /* DSLCalendarDaySelection-right@2x.png in Resources */,
 				DEED2A911D500A9500813408 /* NotificationBackgroundSuccess.png in Resources */,
 				DE6D03011861BB9400B2D670 /* settings2.png in Resources */,
@@ -1075,6 +1082,7 @@
 				DEE2681A186091D900394FDD /* slice.wav in Resources */,
 				DE6D03021861BB9400B2D670 /* pie_chart2.png in Resources */,
 				DECF9832187DFE5D00B3DE9C /* gitHubIcon2.png in Resources */,
+				261DD000204AFA0800967A3A /* back_one.png in Resources */,
 				261DCFF0204AACD200967A3A /* buy.png in Resources */,
 				DEED2A731D500A9500813408 /* DSLCalendarDaySelection-middle.png in Resources */,
 				DE87D2D61859E9DE00B59EA3 /* error.png in Resources */,
