@@ -28,18 +28,27 @@
 @property (nonatomic, strong) UILabel                  *rangeLabel;
 @property (nonatomic, strong) UILabel                  *topLabel;
 @property (nonatomic, strong) DSLCalendarRange         *rangeForFetch;
-@property (nonatomic, strong) EKChartViewController    *chartViewController;
+//@property (nonatomic, strong) EKChartViewController    *chartViewController;
 @property (nonatomic, assign) CGFloat                   viewHeightFromNIB;
+
 
 @end
 
 
-@implementation EKCalendarViewController;
 
+
+@implementation EKCalendarViewController;
+-(void)viewDidLoad
+{
+    self.view.backgroundColor = [UIColor colorWithPatternImage:[UIImage imageNamed:@"background3.png"]];
+}
+/*
 #pragma mark - Life cycle
 
 - (void)viewDidLoad
 {
+    self.view.backgroundColor = [UIColor colorWithPatternImage:[UIImage imageNamed:@"background1.png"]];
+    
     [super viewDidLoad];
     
 //    self.view.backgroundColor = APP_BACKGROUND_COLOR;
@@ -212,5 +221,6 @@
 //        }
 //    }
 //}
-
+*/
+//}
 @end

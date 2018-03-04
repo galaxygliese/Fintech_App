@@ -15,7 +15,7 @@
 
 #import "EKCalendarViewController.h"
 
-static NSString * const kEKSettingsVCTitle = @"TrackMyDay";
+static NSString * const kEKSettingsVCTitle = @"本を見つける";
 static NSString * const kEKSent            = @"Sent";
 static NSString * const kEKFailed          = @"Failed";
 static NSString * const kEKExportFailed    = @"No data to export";

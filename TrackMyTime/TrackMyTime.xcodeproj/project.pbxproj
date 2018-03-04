@@ -21,6 +21,13 @@
 /* End PBXAggregateTarget section */
 
 /* Begin PBXBuildFile section */
+		261D3CF5204BA170002549A9 /* background1.png in Resources */ = {isa = PBXBuildFile; fileRef = 261D3CF4204BA170002549A9 /* background1.png */; };
+		261D3CF7204BA7B4002549A9 /* background2.png in Resources */ = {isa = PBXBuildFile; fileRef = 261D3CF6204BA7B4002549A9 /* background2.png */; };
+		261D3CFB204BA9A5002549A9 /* background3.png in Resources */ = {isa = PBXBuildFile; fileRef = 261D3CFA204BA9A4002549A9 /* background3.png */; };
+		261D3CFF204BBD98002549A9 /* super_back.png in Resources */ = {isa = PBXBuildFile; fileRef = 261D3CFE204BBD97002549A9 /* super_back.png */; };
+		261D3D01204BC1E8002549A9 /* user_back_2.png in Resources */ = {isa = PBXBuildFile; fileRef = 261D3D00204BC1E8002549A9 /* user_back_2.png */; };
+		261D3D09204BD06B002549A9 /* taro.png in Resources */ = {isa = PBXBuildFile; fileRef = 261D3D08204BD06A002549A9 /* taro.png */; };
+		261D3D0D204BD369002549A9 /* taro2.png in Resources */ = {isa = PBXBuildFile; fileRef = 261D3D0C204BD368002549A9 /* taro2.png */; };
 		261DCFE0204A99A600967A3A /* icon_book.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 261DCFDF204A99A600967A3A /* icon_book.jpg */; };
 		261DCFE2204A99CA00967A3A /* afro-american-teacher.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 261DCFE1204A99CA00967A3A /* afro-american-teacher.jpg */; };
 		261DCFE4204A99D700967A3A /* mondai.gif in Resources */ = {isa = PBXBuildFile; fileRef = 261DCFE3204A99D700967A3A /* mondai.gif */; };
@@ -181,6 +188,13 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		261D3CF4204BA170002549A9 /* background1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = background1.png; path = ../../../../../../Desktop/background1.png; sourceTree = "<group>"; };
+		261D3CF6204BA7B4002549A9 /* background2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = background2.png; path = ../../../../../../Desktop/background2.png; sourceTree = "<group>"; };
+		261D3CFA204BA9A4002549A9 /* background3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = background3.png; path = ../../../../../../Desktop/background3.png; sourceTree = "<group>"; };
+		261D3CFE204BBD97002549A9 /* super_back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = super_back.png; path = ../../../../../super_back.png; sourceTree = "<group>"; };
+		261D3D00204BC1E8002549A9 /* user_back_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = user_back_2.png; path = ../../../../../../Desktop/user_back_2.png; sourceTree = "<group>"; };
+		261D3D08204BD06A002549A9 /* taro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = taro.png; path = ../../../../../../Desktop/taro.png; sourceTree = "<group>"; };
+		261D3D0C204BD368002549A9 /* taro2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = taro2.png; path = ../../../../../taro2.png; sourceTree = "<group>"; };
 		261DCFDF204A99A600967A3A /* icon_book.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = icon_book.jpg; path = ../../../../../../Desktop/finTech/book_ilusts/icon_book.jpg; sourceTree = "<group>"; };
 		261DCFE1204A99CA00967A3A /* afro-american-teacher.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "afro-american-teacher.jpg"; path = "../../../../../../Desktop/finTech/book_ilusts/afro-american-teacher.jpg"; sourceTree = "<group>"; };
 		261DCFE3204A99D700967A3A /* mondai.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = mondai.gif; path = ../../../../../../Desktop/finTech/book_ilusts/mondai.gif; sourceTree = "<group>"; };
@@ -250,7 +264,7 @@
 		DEADB9711857835800C0CDF1 /* EKAttributedStringUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EKAttributedStringUtil.h; sourceTree = "<group>"; };
 		DEADB9721857835800C0CDF1 /* EKAttributedStringUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EKAttributedStringUtil.m; sourceTree = "<group>"; };
 		DEADBBAB1857E21B00C0CDF1 /* EKConstants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EKConstants.h; sourceTree = "<group>"; };
-		DEBB0CCF185386C500302AC5 /* TrackMyTime.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TrackMyTime.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DEBB0CCF185386C500302AC5 /* A++.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "A++.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DEBB0CD2185386C500302AC5 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		DEBB0CD4185386C500302AC5 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		DEBB0CD6185386C500302AC5 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
@@ -439,20 +453,27 @@
 			isa = PBXGroup;
 			children = (
 				261DD001204B064800967A3A /* back_two.png */,
+				261D3D00204BC1E8002549A9 /* user_back_2.png */,
 				DECF9833187E04FC00B3DE9C /* Download_on_the_App_Store_Badge_US-UK_135x40.png */,
 				DECF9831187DFE5D00B3DE9C /* gitHubIcon2.png */,
 				261DCFFF204AFA0700967A3A /* back_one.png */,
 				261DCFFD204AEADA00967A3A /* SK.png */,
 				DE22835E186A17CD004A00FA /* tones.png */,
 				261DCFF9204AE00B00967A3A /* gitHubIcon.png */,
+				261D3CFA204BA9A4002549A9 /* background3.png */,
 				DE228360186A17DA004A00FA /* trash2.png */,
 				DE228362186A17F3004A00FA /* database_backup2.png */,
+				261D3CF6204BA7B4002549A9 /* background2.png */,
 				DE3DED091865132700E13797 /* clock.png */,
 				261DCFF1204AAD2A00967A3A /* sell.png */,
 				261DCFF3204AADFD00967A3A /* database_backup.png */,
 				261DCFEB204AAB2C00967A3A /* book_.png */,
 				261DCFF5204AAE3600967A3A /* trash.png */,
+				261D3D0C204BD368002549A9 /* taro2.png */,
+				261D3D08204BD06A002549A9 /* taro.png */,
 				261DCFEF204AACD200967A3A /* buy.png */,
+				261D3CFE204BBD97002549A9 /* super_back.png */,
+				261D3CF4204BA170002549A9 /* background1.png */,
 				DE6D02FE1861BB9400B2D670 /* settings2.png */,
 				261DCFED204AAB7E00967A3A /* timer.png */,
 				261DCFE3204A99D700967A3A /* mondai.gif */,
@@ -494,7 +515,7 @@
 		DEBB0CD0185386C500302AC5 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				DEBB0CCF185386C500302AC5 /* TrackMyTime.app */,
+				DEBB0CCF185386C500302AC5 /* A++.app */,
 				DEBB0CEF185386C500302AC5 /* TrackMyTimeTests.xctest */,
 			);
 			name = Products;
@@ -955,7 +976,7 @@
 			);
 			name = TrackMyTime;
 			productName = TrackMyTime;
-			productReference = DEBB0CCF185386C500302AC5 /* TrackMyTime.app */;
+			productReference = DEBB0CCF185386C500302AC5 /* A++.app */;
 			productType = "com.apple.product-type.application";
 		};
 		DEBB0CEE185386C500302AC5 /* TrackMyTimeTests */ = {
@@ -1025,9 +1046,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				261DCFE6204A9B0200967A3A /* book.png in Resources */,
+				261D3CFF204BBD98002549A9 /* super_back.png in Resources */,
 				DEED2A8C1D500A9500813408 /* NotificationBackgroundError@2x.png in Resources */,
+				261D3D09204BD06B002549A9 /* taro.png in Resources */,
 				DE228361186A17DA004A00FA /* trash2.png in Resources */,
 				DE30600D186C364D001006A4 /* Settings.bundle in Resources */,
+				261D3D0D204BD369002549A9 /* taro2.png in Resources */,
 				DEED2A8E1D500A9500813408 /* NotificationBackgroundErrorIcon@2x.png in Resources */,
 				DEED2A961D500A9500813408 /* NotificationBackgroundWarning@2x.png in Resources */,
 				DEED2A751D500A9500813408 /* DSLCalendarDaySelection-right.png in Resources */,
@@ -1071,6 +1095,7 @@
 				DEBB0CDF185386C500302AC5 /* InfoPlist.strings in Resources */,
 				261DCFEA204AAAC300967A3A /* settings.png in Resources */,
 				261DCFE8204AAA2A00967A3A /* pie_chart.png in Resources */,
+				261D3CF7204BA7B4002549A9 /* background2.png in Resources */,
 				261DCFFC204AE1B000967A3A /* Images.xcassets in Resources */,
 				DEED2A931D500A9500813408 /* NotificationBackgroundSuccessIcon.png in Resources */,
 				261DCFFA204AE00B00967A3A /* gitHubIcon.png in Resources */,
@@ -1080,6 +1105,7 @@
 				261DCFF6204AAE3600967A3A /* trash.png in Resources */,
 				DE87D2D81859E9DE00B59EA3 /* reset.wav in Resources */,
 				DEE2681A186091D900394FDD /* slice.wav in Resources */,
+				261D3CFB204BA9A5002549A9 /* background3.png in Resources */,
 				DE6D03021861BB9400B2D670 /* pie_chart2.png in Resources */,
 				DECF9832187DFE5D00B3DE9C /* gitHubIcon2.png in Resources */,
 				261DD000204AFA0800967A3A /* back_one.png in Resources */,
@@ -1091,6 +1117,8 @@
 				261DCFE4204A99D700967A3A /* mondai.gif in Resources */,
 				DEED2A641D500A9500813408 /* DSLCalendarDayCalloutView.xib in Resources */,
 				DEED2A981D500A9500813408 /* NotificationBackgroundWarningIcon@2x.png in Resources */,
+				261D3CF5204BA170002549A9 /* background1.png in Resources */,
+				261D3D01204BC1E8002549A9 /* user_back_2.png in Resources */,
 				DEED2A901D500A9500813408 /* NotificationBackgroundMessage@2x.png in Resources */,
 				DE3DED0A1865132700E13797 /* clock.png in Resources */,
 				DEED2A6F1D500A9500813408 /* DSLCalendarDayCallout.png in Resources */,
@@ -1360,7 +1388,7 @@
 				INFOPLIST_FILE = "TrackMyTime/TrackMyTime-Info.plist";
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
 				PRODUCT_BUNDLE_IDENTIFIER = com.evgenykarkan.trackmytimesodoo;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "A++";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				WRAPPER_EXTENSION = app;
@@ -1382,7 +1410,7 @@
 				INFOPLIST_FILE = "TrackMyTime/TrackMyTime-Info.plist";
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
 				PRODUCT_BUNDLE_IDENTIFIER = com.evgenykarkan.trackmytimesodoo;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "A++";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				WRAPPER_EXTENSION = app;

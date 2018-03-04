@@ -27,7 +27,8 @@ static NSString * const kEKClockIcon         = @"clock";
     self = [super initWithFrame:frame];
     
     if (self) {
-        self.backgroundColor = APP_BACKGROUND_COLOR;
+        
+        self.backgroundColor = [UIColor colorWithPatternImage:[UIImage imageNamed:@"user_back.png"]]; //  APP_BACKGROUND_COLOR;
         
         self.scrollView                                = [[UIScrollView alloc] init];
         self.scrollView.pagingEnabled                  = YES;

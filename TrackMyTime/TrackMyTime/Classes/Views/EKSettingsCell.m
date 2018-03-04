@@ -19,11 +19,14 @@ static CGFloat    const kEKTitleFontSize = 20.0f;
 
 @implementation EKSettingsCell;
 
+
 - (instancetype)initWithIndexPath:(NSIndexPath *)path
 {
     self = [super initWithIndexPath: path];
     
+    
     if (self) {
+        
         self.backgroundColor = [UIColor clearColor];
         self.icon = [[UIImageView alloc] init];
         [self addSubview:self.icon];
@@ -46,12 +49,12 @@ static CGFloat    const kEKTitleFontSize = 20.0f;
                 break;
                 
             case 2:
-            /*  self.icon.image = [UIImage imageNamed:kEKBottomIcon];
+               self.icon.image = [UIImage imageNamed:kEKBottomIcon];
                 self.title.text = kEKBottomTitle;
                 self.soundSwitch = [[UISwitch alloc] init];
                 self.soundSwitch.tintColor = [UIColor colorWithRed:0.827451f green:0.827451f blue:0.827451f alpha:1.0f];
                 self.soundSwitch.onTintColor = iOS7Blue;
-                [self addSubview:self.soundSwitch];*/
+                [self addSubview:self.soundSwitch];
                 break;
                 
             default:
@@ -59,7 +62,8 @@ static CGFloat    const kEKTitleFontSize = 20.0f;
         }
     }
     return self;
-}
+}  
+
 
 - (void)layoutSubviews
 {

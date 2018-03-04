@@ -68,6 +68,8 @@
 
 - (void)showTimeTrackViewController
 {
+    self.view.backgroundColor =  [UIColor colorWithPatternImage:[UIImage imageNamed:@"user_back.png"]];
+    
     [self.appDelegate.drawerController setOpenDrawerGestureModeMask:MMOpenDrawerGestureModeAll];
     
     if ([((UINavigationController *)self.appDelegate.drawerController.centerViewController).topViewController isKindOfClass :[EKSettingsViewController /*EKTimeTrackViewController*/ class]]) {
@@ -91,6 +93,11 @@
                                                     completion:nil];
 }
 
+-(void) showBack
+{
+    self.view.backgroundColor =  [UIColor colorWithPatternImage:[UIImage imageNamed:@"user_back.png"]];  //[UIColor colorWithPatternImage:[UIImage imageNamed:@"back_two.png"]];
+}
+
 #pragma mark - EKMenuTableViewDelegate
 
 - (void)cellDidPressWithIndex:(NSUInteger)index
@@ -105,7 +112,7 @@
             break;
             
         case 2:
-            [self showSettingsViewController];
+            [self showCalendarViewController];
             break;
             
         default:

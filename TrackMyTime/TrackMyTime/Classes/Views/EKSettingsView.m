@@ -27,7 +27,12 @@
     return self;
 }
 
-- (void)layoutSubviews
+-(void) layoutSubviews
+{
+    self.backgroundColor = [UIColor colorWithPatternImage:[UIImage imageNamed:@"super_back.png"]];
+}
+
+- (void)layoutSubviews_2 // _2 wo nakusu
 {
     [super layoutSubviews];
     

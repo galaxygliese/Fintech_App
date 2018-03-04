@@ -21,8 +21,8 @@ static NSString * const kEKCounter           = @"00:00:00.00";
 - (instancetype)initWithFrame:(CGRect)frame
 {
     self = [super initWithFrame:frame];
-    if (self) {
-        self.backgroundColor = [UIColor colorWithPatternImage:[UIImage imageNamed:@"back_two.png"]];
+    if (self){
+        self.backgroundColor = [UIColor colorWithPatternImage:[UIImage imageNamed:@"taro2.png"]];
     //APP_BACKGROUND_COLOR;
 //        UIImageView *backImage = [[UIImageView alloc] init];
 //        backImage.frame = CGRectMake(0, 0, 100, 280);
